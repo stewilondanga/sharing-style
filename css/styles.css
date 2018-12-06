@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:300i,400');
 /*body {
   text-align: center;
   font-family: courier;
@@ -20,8 +21,6 @@
 .my_social a img {
   height: 1.5em;
 }
-
-@import url('https://fonts.googleapis.com/css?family=Roboto:300i,400');
 
 html, body {
     width: 100%;
