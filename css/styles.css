@@ -25,12 +25,11 @@ body {
   height: 1.5em;
 }
 
-/*a{
+a {
   text-decoration: none;
 }
 
-
-.share__icon {
+/*.share__icon {
     width: 32px;
     height: 32px;
     fill: #fff;
