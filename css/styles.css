@@ -6,6 +6,10 @@ html, body {
   font-family: 'Roboto', sans-serif;
 }
 
+body {
+  background-color: #36BEA6;
+}
+
 /*body {
   text-align: center;
   font-family: courier;
@@ -33,9 +37,6 @@ a{
   text-decoration: none;
 }
 
-body {
-    background-color: #36BEA6;
-}
 
 .share__icon {
     width: 32px;
